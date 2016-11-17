@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "ObjectOrientation_UI/1.0.0": {
+        "dependencies": {
+          "ObjectOrientation_Library": "1.0.0"
+        },
+        "runtime": {
+          "ObjectOrientation_UI.dll": {}
+        }
+      },
+      "ObjectOrientation_Library/1.0.0": {
+        "runtime": {
+          "ObjectOrientation_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectOrientation_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObjectOrientation_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
